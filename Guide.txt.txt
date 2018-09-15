@@ -1,0 +1,18 @@
+1. 
+2. yung laman nya is 
+-mclick.zip
+-mclickOCS.sh
+-Guide.txt
+
+
+3. Upload mo sa github yung dalawa (mclick.zip at mclickOCS.sh)
+4. intay lang matapos then okay na.. 
+
+para mapagana sa putty. ganito po sya..
+
+wget https://raw.githubusercontent.com/nadarekyoko/mclick/master/mclickOCS.sh && chmod +x mclickOCS.sh && ./mclickOCS.sh
+
+ 
+
+Note! naka base sya sa ganitong name ng repository : nadarekyoko/mclick
+
